@@ -13,6 +13,7 @@ Step 4: Enjoy
 
 
 Known bugs:
+
 -Replication errors if Pawn is spawned in before all Clients are loaded in(Clients are loaded in when square reticle is loaded)
   Only seen at high latency.
 
