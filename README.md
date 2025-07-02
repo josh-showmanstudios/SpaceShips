@@ -2,9 +2,13 @@ SpaceShips
 
 UE5.6 - Blueprints
 
+
 Step 1: Open uproject with UE 5.6
+
 Step 2: Set Net Mode to Play as Listen Server
+
 Step 3: Spawn with 'P' key
+
 Step 4: Enjoy
 
 
@@ -18,6 +22,7 @@ Player controls:
 - Mouse: aim
 - Tab: gravity
 - F: use(start/stop driving)
+
 
 Ship Controls:
 - W: forward
