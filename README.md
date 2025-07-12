@@ -21,6 +21,9 @@ Known bugs:
 Player controls:
 - W/A/S/D: movement
 - Mouse: aim
+- Space: Jump
+- Left Ctrl: crouch
+- Left Alt: slide
 - Tab: gravity
 - F: use(start/stop driving)
 
