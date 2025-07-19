@@ -23,7 +23,7 @@ Player controls:
 - Mouse: aim
 - Space: Jump
 - Left Ctrl: crouch
-- Left Alt: slide
+- Left Shift: slide
 - Tab: gravity
 - F: use(start/stop driving)
 
