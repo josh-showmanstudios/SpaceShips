@@ -1,0 +1,27 @@
+.vs/
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Built data for maps
+*_BuiltData.uasset
+
+*.sln
+
+# Compiled Files
+*.pdb
+*.obj
+*.o
+*.lo
+*.slo
+*.exe
+*.dll
+*.so
+*.dylib
+*.gch
+*.pch
+*.a
+*.lai
+*.la
